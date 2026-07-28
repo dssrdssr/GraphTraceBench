@@ -1,4 +1,4 @@
-# GraphTraceBench Tool-Generation Prompt Collection
+# GraphTraceBench Tool-Generation Prompt Collection（For rebuttal)
 
 This document contains the complete prompts for generating Python solvers for GraphLR-Path and GraphLR-BFS, as well as an automatic repair prompt for cases where program generation fails.
 
